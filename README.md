@@ -3,12 +3,12 @@
 The Food Lifecycle project is an attempt to facilitate the use of data when making choices around the cultivation and consumption of food.
 
 **Grow**
-- ** Site selection** - Where to place garden beds, plots, or individual plants based on sunlight, existing soil, drainage, etc.
+- **Site selection** - Where to place garden beds, plots, or individual plants based on sunlight, existing soil, drainage, etc.
 - **Plant Selection** - climate, available tasks, productions goals, grouping symbiotic plants or plants that require similar conditions, preventing planting of incompatible plants
 - **Scheduled Tasks** - prune, weed, harvest, etc.
 - **Yield Calculator** - Yield expectations based on square footage/number of plants
 - **Preservation** - Canning/preserving technique suggestions
-- ** Accessibility ** - Filters out suggestions that might be difficult for some individuals to physically accomplish due to disabilities.
+- **Accessibility ** - Filters out suggestions that might be difficult for some individuals to physically accomplish due to disabilities.
 
 
 **Eat**
