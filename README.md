@@ -8,6 +8,7 @@ The Food Lifecycle project is an attempt to facilitate the use of data when maki
 - **Scheduled Tasks** - prune, weed, harvest, etc.
 - **Yield Calculator** - Yield expectations based on square footage/number of plants
 - **Preservation** - Canning/preserving technique suggestions
+- **Alerts** - Alerts for frost, heat, etc. based on weather reports or typically expected weather conditions.
 - **Accessibility** - Filters out suggestions that might be difficult for some individuals to physically accomplish due to disabilities.
 
 
@@ -18,5 +19,5 @@ The Food Lifecycle project is an attempt to facilitate the use of data when maki
 - **Suggest Additions** - Analyze your current meal to determine if something should be added i.e. more blueberries for
 -  **Exclusion Filtering** - food exclusions from allergy, dietary restrictions or dislike
 - **Grow Schedule Sync** - What can I expect to use when from "Grow" based on the harvest schedule?
-- **Historical Diet** - Predict possible deficiencies based on historical consumption 
+- **Historical Diet** - Predict possible deficiencies based on historical consumption
 - **Well-Structured Recipes** - include meta like utensils required, time for each step, etc. to make it easier to time things to come out at the same time, and to provide relevant results
