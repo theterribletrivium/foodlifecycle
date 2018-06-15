@@ -21,3 +21,6 @@ The Food Lifecycle project is an attempt to facilitate the use of data when maki
 - **Grow Schedule Sync** - What can I expect to use when from "Grow" based on the harvest schedule?
 - **Historical Diet** - Predict possible deficiencies based on historical consumption
 - **Well-Structured Recipes** - include meta like utensils required, time for each step, etc. to make it easier to time things to come out at the same time, and to provide relevant results
+
+**Data Sources**
+- **USDA Food Composition Database** - https://ndb.nal.usda.gov/ndb/
