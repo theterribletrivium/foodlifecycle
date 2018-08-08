@@ -4,7 +4,8 @@ The Food Lifecycle project is an attempt to facilitate the use of data when maki
 
 **Grow**
 - **Site selection** - Where to place garden beds, plots, or individual plants based on sunlight, existing soil, drainage, etc.
-- **Plant Selection** - climate, available tasks, productions goals, grouping symbiotic plants or plants that require similar conditions, preventing planting of incompatible plants, plants prohibited by state-wide restrictions,
+- **Plant Meta** - stages of growth and time in each, preferred water, sun, root depth, root spread, container y/n, transplant y/n, soil ph, nutrients and levels, drainage, watering frequency, watering amount (per sq in.), monthly water usage (calculated based on other info)
+- **Plant Selection** - climate, available tasks, productions goals, grouping symbiotic plants or plants that require similar conditions, preventing planting of incompatible plants, plants prohibited by state-wide restrictions
 - **Scheduled Tasks** - prune, weed, harvest, etc.
 - **Yield Calculator** - Yield expectations based on square footage/number of plants
 - **Preservation** - Canning/preserving technique suggestions
